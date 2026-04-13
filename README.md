@@ -152,6 +152,8 @@ ps aux | grep engine
 Two containers (alpha, beta) running under one supervisor process.
 
 ![screenshot1](screenshots/sc1_sc2.png)
+<img width="822" height="186" alt="image" src="https://github.com/user-attachments/assets/69e71490-9340-4b62-8acd-127a07610f81" />
+
 
 *Caption: Two containers alpha and beta both in `running` state under a single supervisor.*
 
