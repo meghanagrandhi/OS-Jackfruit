@@ -150,7 +150,9 @@ ps aux | grep engine
 ### Screenshot 1 — Multi-container supervision
 Two containers (alpha, beta) running under one supervisor process.
 
-![screenshot1](screenshots/1_multi_container.png)
+![screenshot1](https://github.com/user-attachments/assets/839d4b98-e6e7-447f-a9d0-7879d1adf9ce)
+
+
 
 *Caption: Two containers alpha and beta both in `running` state under a single supervisor.*
 
